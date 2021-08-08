@@ -1,0 +1,13 @@
+{
+    "name": "nestjs",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "nestjs",
+    "workspaceFolder": "/app",
+    "shutdownAction": "stopCompose",
+    "extensions": [
+      "apollographql.vscode-apollo",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+    ]
+  }
+  
